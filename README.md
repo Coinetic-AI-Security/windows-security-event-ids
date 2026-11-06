@@ -84,4 +84,4 @@ Spotted an error or a missing event ID? [Open an issue](https://github.com/Coine
 
 ## Licence
 
-Text: [CC BY 4.0](LICENSE) (c) 2026 Salus Alpha Group AG - share and adapt with a link back.
+Text: [CC BY 4.0](LICENSE) (c) 2026 [Coinetic AI Security](https://coinetic.io) - share and adapt, with the credit *"by Coinetic AI Security - https://coinetic.io"*.
